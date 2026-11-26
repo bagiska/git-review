@@ -14,4 +14,4 @@ __pycache__/
 .ruff_cache/
 
 # Personal files
-notes.txt
+notes.txtlocal_settings.txt
