@@ -21,3 +21,6 @@ local_settings.txt
 *.db
 
 temp/
+
+settings.json
+
