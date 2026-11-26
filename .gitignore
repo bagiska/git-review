@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Development tools
+.pytest_cache/
+.ruff_cache/
+
+# Personal files
+notes.txt
