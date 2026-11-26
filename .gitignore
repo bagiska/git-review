@@ -16,3 +16,8 @@ __pycache__/
 # Personal files
 notes.txt
 local_settings.txt
+
+# Database
+*.db
+
+temp/
